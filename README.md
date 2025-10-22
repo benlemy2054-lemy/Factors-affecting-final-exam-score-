@@ -1,5 +1,7 @@
 # 📘 Factors That Influence Final Exam Performance
 
+![Image](https://github.com/user-attachments/assets/97836f31-673b-482d-8e72-15acd736f56d)
+
 ## 🎯 Business Question  
 **What are the key factors that influence whether a student passes or fails the final exam?**
 
