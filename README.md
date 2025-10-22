@@ -96,7 +96,7 @@ Regression analysis showed that:
 - **Microsoft Excel** – Descriptive statistics, correlation, regression, and dashboard design.  
 - **Power BI** – Advanced visualization and interactive dashboards.  
 - **Kaggle** – Data sourcing and initial dataset.  
-- **Python (pandas, matplotlib)** – Data processing and chart generation.  
+  
 
 ---
 
@@ -105,4 +105,4 @@ Regression analysis showed that:
   
 
 ---
-
+I am open to collabolaration on data analysis, statistical analysis, and visualisation related projects, you can reach me via email @ benlemy2054@gmail.com
